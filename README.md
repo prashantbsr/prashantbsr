@@ -1,75 +1,110 @@
-<!--
-  Dr. Prashant Sharma — physician-developer building healthcare software in India.
-  Pensieve Labs · Pensieve HMS · ABDM · HL7v2 · FHIR · hospital interoperability · clinical informatics.
--->
+# Prashant Sharma
 
-<p align="center">
-  <a href="https://prashant.pensievelabs.org">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=Dr.+Prashant+Sharma+%E2%80%94+physician-developer;Building+Pensieve+%E2%80%94+software+for+hospitals;Healthcare+interoperability+%E2%80%A2+HL7v2+%E2%80%A2+FHIR+%E2%80%A2+ABDM;Hexagonal+TypeScript+%E2%80%A2+schema-first+%E2%80%A2+no+orphans" alt="Headline" />
-  </a>
-</p>
+I ❤️ Engineering. It's the most effective way to solve problems.
+🩻 Physician by formal education.
+☀️ Kardashev 3 in my lifetime, but hospitals first (I understand them better and a lot of problems can be fixed here).
 
-### 👋 About
 
-I'm a physician building software for hospitals. Founder of **[Pensieve Labs](https://www.pensievelabs.org)** — clinical workflow, hospital management, and healthcare interoperability tooling for the Indian healthcare ecosystem.
+I run [Pensieve Labs](https://www.pensievelabs.org), and a few other things.
 
-My work sits at the intersection of **clinical informatics**, **hospital management systems (HMS)**, and **healthcare interoperability** — the messy plumbing that connects HIS, EMR/EHR, LIS, RIS-PACS, PIS, billing, and custom hospital APIs into a coherent record. I care about software that respects how doctors and nurses actually work, and about open standards: HL7v2, FHIR, ABDM, DICOM, MLLP.
+### What I'm working on mostly
 
-### 🏥 What I'm building — Pensieve
+🏥 **[Pensieve](https://www.pensievelabs.org)**: Operating System for Hospitals.
 
-**Pensieve** is a web-based hospital platform for clinical and administrative staff, with an on-prem bridge agent that integrates with whatever the hospital already runs.
+🚀 **Vel Dynamics** — Energy and aerospace. Details when there is something to demo, not something to claim.
 
-- 🧠 **Pensieve kernel** — TypeScript + Fastify backend on Firebase, Zod schema-first, `Result<T, E>` error model, strict hexagonal architecture.
-- 💻 **Pensieve shell** — React + Vite frontend for doctors, nurses, lab techs, and hospital management.
-- 🌉 **Orophin** — single-binary Node.js on-prem bridge agent. Listens to MLLP / ASTM / CSV / DICOM, ships events over mTLS WebSocket to the kernel. SQLite outbox, offline-tolerant.
-- 🔐 **ABDM-ready** — Ayushman Bharat Digital Mission consent + linking flows.
+🌾 **Blackfarms** — Food systems. Same rule.
 
-> Stack tradeoffs are documented openly. I'd rather have correct boundaries than clever code.
+The pattern: take an industry that decided mediocrity and moving slow is fine. Disagree, ship.
 
-### 📦 Open source
+### Some things for you to try
 
-| Project | What it is |
-|---|---|
-| 🩺 **[hl7v2-dart](https://github.com/prashantbsr/hl7v2-dart)** | Comprehensive **HL7v2** library for Dart & Flutter — parser, generator, typed segments, **MLLP** transport. Zero dependencies. |
-| 🔐 **[abdm-fidelius-dart](https://github.com/prashantbsr/abdm-fidelius-dart)** | Dart implementation of **ABDM Fidelius** encryption — ECDH + HKDF + AES-256-GCM. For Ayushman Bharat Digital Mission integrations. |
-| 🌌 **[emlinteractive](https://github.com/prashantbsr/emlinteractive)** | Interactive playground for the EML operator (Odrzywolek 2024). Astrophysics, just for fun. |
+- **[hl7v2-dart](https://github.com/prashantbsr/hl7v2-dart)** : HL7v2 for Dart and Flutter. Parser, generator, typed segments, MLLP transport. Zero dependencies.
+- **[abdm-fidelius-dart](https://github.com/prashantbsr/abdm-fidelius-dart)** : ABDM Fidelius. ECDH + HKDF + AES-256-GCM. Required to talk to India's health stack.
+- **[emlinteractive](https://github.com/prashantbsr/emlinteractive)** : interactive playground for the EML operator (Odrzywolek, 2024). Built it out of interest only.
 
-### 🛠️ Stack I work in
+I support open-source. More things on the way.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![HL7](https://img.shields.io/badge/HL7v2-E10000?style=flat-square)
-![FHIR](https://img.shields.io/badge/FHIR-AA0000?style=flat-square)
-![DICOM](https://img.shields.io/badge/DICOM-0E76A8?style=flat-square)
-![ABDM](https://img.shields.io/badge/ABDM-138808?style=flat-square)
+### Things I work with
 
-### 🧭 Principles I write code by
+**Languages**
 
-- **Hexagonal architecture, always.** Ports and adapters, never the other way around.
-- **Schema-first.** Zod at every boundary, single source of truth, codegen for the wire.
-- **`Result<T, E>` everywhere.** Errors are values, not exceptions.
-- **No stubs, no orphans.** Every line traces to a real user-facing capability.
-- **Machine-checked invariants.** If a rule isn't enforced by a tool, it isn't a rule.
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-654FF0?style=flat-square)
 
-### 📊 GitHub
+**Backend**
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantbsr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantbsr&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="160" alt="Top languages" />
-</p>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/-Firestore-FFA000?style=flat-square&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Algolia](https://img.shields.io/badge/-Algolia-003DFF?style=flat-square&logo=algolia&logoColor=white)
+![Meilisearch](https://img.shields.io/badge/-Meilisearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white)
+![Orama](https://img.shields.io/badge/-Orama-6E56CF?style=flat-square)
+![NDJSON](https://img.shields.io/badge/-NDJSON-555555?style=flat-square)
+![Pino](https://img.shields.io/badge/-Pino-687634?style=flat-square&logo=pino&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/-Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/-Cloud%20Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/-Cloud%20Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/-Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Secret Manager](https://img.shields.io/badge/-Secret%20Manager-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![CloudFront](https://img.shields.io/badge/-CloudFront-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white)
+![SQS](https://img.shields.io/badge/-SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
 
-### 🔗 Connect
+![TLA+](https://img.shields.io/badge/-TLA%2B-3F51B5?style=flat-square)
+![Alloy](https://img.shields.io/badge/-Alloy-37474F?style=flat-square)
+![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![dependency-cruiser](https://img.shields.io/badge/-dependency--cruiser-5D5DFF?style=flat-square)
+![Husky](https://img.shields.io/badge/-Husky-2C3E50?style=flat-square)
 
-- 🌐 Company — [pensievelabs.org](https://www.pensievelabs.org)
-- ✍️ Blog — [prashant.pensievelabs.org](https://prashant.pensievelabs.org)
-- 📍 Manipal, India
+**Front**
 
-<sub>📌 Keywords: hospital management software India · healthcare interoperability · HL7v2 parser · FHIR · ABDM Fidelius · clinical informatics · DICOM · MLLP · LIS RIS-PACS HIS EMR EHR integration · TypeScript Node.js React Fastify · physician developer · clinician engineer.</sub>
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Blueprint](https://img.shields.io/badge/-Blueprint%20(Palantir)-137CBD?style=flat-square&logo=palantir&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-433E38?style=flat-square)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Cornerstone.js](https://img.shields.io/badge/-Cornerstone.js-0E76A8?style=flat-square)
+
+**Healthcare specific**
+
+![HL7v2](https://img.shields.io/badge/-HL7v2-E10000?style=flat-square)
+![FHIR](https://img.shields.io/badge/-FHIR-AA0000?style=flat-square)
+![DICOM](https://img.shields.io/badge/-DICOM-0E76A8?style=flat-square)
+![MLLP](https://img.shields.io/badge/-MLLP-555555?style=flat-square)
+![ASTM](https://img.shields.io/badge/-ASTM-444444?style=flat-square)
+![ABDM%20Fidelius](https://img.shields.io/badge/-ABDM%20Fidelius-138808?style=flat-square)
+
+
+**LLMs**
+
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Qwen (local)](https://img.shields.io/badge/-Qwen%20(local)-1F1F1F?style=flat-square&logo=alibabacloud&logoColor=white)
+
+### How I write code
+
+- Multiple simultaneous Claude Code and locally running Qwen sessions. Same is done by my team.
+- Most important part: Machine-Making-Machine. This is the most important project of Pensieve. It has significantly reduced the non-determinism and errors from LLMs across the codebase and the entire SDLC. It is one of our biggest wins, alongside Pensieve itself. Soon it will be open source, with all the evaluations and documentation.
+- A rule not enforced by a machine is not a rule.
+- LLMs do the writing. I am the brain (at least for now).
+
+- I firmly believe AI is only good at engineering as much as the engineer using it. Vibe coders turned founders who haven't written code for at least a couple of years before using AI aren't going to make it — at least not for the next few years.
+
+---
+Company: [pensievelabs.org](https://www.pensievelabs.org)
+Personal: [prashant.pensievelabs.org](https://prashant.pensievelabs.org)

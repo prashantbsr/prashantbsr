@@ -11,11 +11,12 @@ I run [Pensieve Labs](https://www.pensievelabs.org), and a few other things.
 
 🏥 **[Pensieve](https://www.pensievelabs.org)**: Operating System for Hospitals.
 
-🚀 **Vel Dynamics** — Energy and aerospace. Details when there is something to demo, not something to claim.
+🚀 **Vel Dynamics**: Energy and aerospace. Details when there is something to demo, not something to claim.
 
-🌾 **Blackfarms** — Food systems. Same rule.
+🌾 **Blackfarms**: Food systems. Same rule.
 
 The pattern: take an industry that decided mediocrity and moving slow is fine. Disagree, ship.
+Another thing is intuition and my curiosity in these fields.
 
 ### Some things for you to try
 
@@ -99,9 +100,9 @@ I support open-source. More things on the way.
 ### How I write code
 
 - Multiple simultaneous Claude Code and locally running Qwen sessions. Same is done by my team.
-- Most important part: Machine-Making-Machine. This is the most important project of Pensieve. It has significantly reduced the non-determinism and errors from LLMs across the codebase and the entire SDLC. It is one of our biggest wins, alongside Pensieve itself. Soon it will be open source, with all the evaluations and documentation.
+- Most important part: Machine-Making-Machine. This is the most important project of Pensieve. It has significantly reduced the lack of determinism and errors from LLMs across the codebase and the entire SDLC. It is one of our biggest wins, alongside Pensieve itself. Soon it will be open source, with all the evaluations and documentation.
 - A rule not enforced by a machine is not a rule.
-- LLMs do the writing. I am the brain (at least for now).
+- LLMs are the typist. I am the brain (at least for now).
 
 - I firmly believe AI is only good at engineering as much as the engineer using it. Vibe coders turned founders who haven't written code for at least a couple of years before using AI aren't going to make it — at least not for the next few years.
 

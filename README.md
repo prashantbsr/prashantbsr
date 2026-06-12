@@ -104,8 +104,9 @@ I support open-source. More things on the way.
 - A rule not enforced by a machine is not a rule.
 - LLMs are the typist. I am the brain (at least for now).
 
-- I firmly believe AI is only good at engineering as much as the engineer using it. Vibe coders turned founders who haven't written code for at least a couple of years before using AI aren't going to make it — at least not for the next few years.
+- I firmly believe AI is only good at engineering as much as the engineer using it. Vibe coders turned founders who haven't written code for at least a couple of years before using AI aren't going to make it. At least not for the next few years.
 
 ---
-Company: [pensievelabs.org](https://www.pensievelabs.org)
-Personal: [prashant.pensievelabs.org](https://prashant.pensievelabs.org)
+- Company: [pensievelabs.org](https://www.pensievelabs.org)
+- Personal: [prashant.pensievelabs.org](https://prashant.pensievelabs.org)
+- Email: [prashant@pensievelabs.org](mailto:prashant@pensievelabs.org)

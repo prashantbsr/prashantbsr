@@ -1,14 +1,14 @@
 # Prashant Sharma
 
-> I ❤️ Engineering. It's the most effective way to solve problems.
-> 🩻 Physician by formal education.
-> ☀️ Kardashev 3 in my lifetime, but hospitals first (I understand them better and a lot of problems can be fixed here).
+I ❤️ Engineering. It's the most effective way to solve problems.
+🩻 Physician by formal education.
+☀️ Kardashev 3 in my lifetime, but hospitals first (I understand them better and a lot of problems can be fixed here).
 
 ### Summary of my mind?
 High Agency.
 Take matters into your own hands.
 
----
+--
 
 I run [Pensieve Labs](https://www.pensievelabs.org), and a few other things.
 

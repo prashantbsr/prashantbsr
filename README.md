@@ -4,7 +4,7 @@ I ❤️ Engineering. It's the most effective way to solve problems.\
 🩻 Physician by formal education.\
 ☀️ Kardashev 3 in my lifetime, but hospitals first (I understand them better and a lot of problems can be fixed here).
 
-### Summary of my mind?
+## Summary of my mind?
 High Agency.
 Take matters into your own hands.
 
@@ -12,7 +12,7 @@ Take matters into your own hands.
 
 I run [Pensieve Labs](https://www.pensievelabs.org), and a few other things.
 
-### What I'm working on mostly
+## What I'm working on mostly
 
 🏥 **[Pensieve](https://www.pensievelabs.org)**: Operating System for Hospitals.
 
@@ -23,15 +23,15 @@ I run [Pensieve Labs](https://www.pensievelabs.org), and a few other things.
 The pattern: take an industry that decided mediocrity and moving slow is fine. Disagree, ship.
 Another thing is intuition and my curiosity in these fields.
 
-### Some things for you to try
+## Some things for you to try
 
-- **[hl7v2-dart](https://github.com/prashantbsr/hl7v2-dart)** : HL7v2 for Dart and Flutter. Parser, generator, typed segments, MLLP transport. Zero dependencies.
-- **[abdm-fidelius-dart](https://github.com/prashantbsr/abdm-fidelius-dart)** : ABDM Fidelius. ECDH + HKDF + AES-256-GCM. Required to talk to India's health stack.
-- **[emlinteractive](https://github.com/prashantbsr/emlinteractive)** : interactive playground for the EML operator (Odrzywolek, 2024). Built it out of interest only.
+- **[hl7v2-dart](https://github.com/prashantbsr/hl7v2-dart)** : HL7v2 for Dart and Flutter. Parser, MLLP. Zero dependencies.
+- **[abdm-fidelius-dart](https://github.com/prashantbsr/abdm-fidelius-dart)** : ABDM Fidelius. ECDH + HKDF + AES-256-GCM.
+- **[emlinteractive](https://github.com/prashantbsr/emlinteractive)** : interactive playground for the EML operator (Odrzywolek, 2024).
 
 I support open-source. More things on the way.
 
-### Things I work with
+## Things I work with
 
 **Languages**
 
@@ -102,7 +102,7 @@ I support open-source. More things on the way.
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Qwen (local)](https://img.shields.io/badge/-Qwen%20(local)-1F1F1F?style=flat-square&logo=alibabacloud&logoColor=white)
 
-### How I write code
+## How I write code
 
 - Multiple simultaneous Claude Code and locally running Qwen sessions. Same is done by my team.
 - Most important part: Machine-Making-Machine. This is the most important project of Pensieve. It has significantly reduced the lack of determinism and errors from LLMs across the codebase and the entire SDLC. It is one of our biggest wins, alongside Pensieve itself. Soon it will be open source, with all the evaluations and documentation.

@@ -29,6 +29,7 @@ Another thing is intuition and my curiosity in these fields.
 - **[hl7v2-dart](https://github.com/prashantbsr/hl7v2-dart)** : HL7v2 for Dart and Flutter. Parser, MLLP. Zero dependencies.
 - **[abdm-fidelius-dart](https://github.com/prashantbsr/abdm-fidelius-dart)** : ABDM Fidelius. ECDH + HKDF + AES-256-GCM.
 - **[emlinteractive](https://github.com/prashantbsr/emlinteractive)** : interactive playground for the EML operator (Odrzywolek, 2024).
+- **[Dear Dinanath (Experiment and Research)](https://deardinanath.vercel.app/)** : minimising the cognitive burden for learning chants.
 
 I support open-source. More things on the way.
 

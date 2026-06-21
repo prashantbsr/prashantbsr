@@ -5,8 +5,9 @@ I ❤️ Engineering. It's the most effective way to solve problems.\
 ☀️ Kardashev 3 in my lifetime, but hospitals first (I understand them better and a lot of problems can be fixed here).
 
 ## Summary of my mind?
-High Agency.
-Take matters into your own hands.
+1. High Agency. Take matters into your own hands. (This is how I contribute to this world while resource maxing for contributing further).
+2. Certainty of Death. Ultimately nothing is in my hand. (This is what makes me to do what I am doing).
+
 
 ---
 
